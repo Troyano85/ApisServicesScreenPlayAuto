@@ -1,8 +1,5 @@
-# ApisServicesScreenPlayAuto
-Automation APis services web with screenPlay  pattern
-RestAssured
-Java
-Serenity
-Gradle
-Cucumber
-Postman
+Restassured + Cucumber + Serenity
+Project based on:
+https://github.com/serenity-bdd/serenity-rest-taxi-stands
+
+To run the tests: mvn verify
